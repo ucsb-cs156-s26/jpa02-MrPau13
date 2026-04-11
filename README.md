@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s26/jpa02-MrPau13.git
 
-Deployed at: https://jpa02-paumr13.dokku-12.cs.ucsb.edu
+Deployed at: https://jpa02-mrpau13.dokku-12.cs.ucsb.edu
 
 
 # About this repo
